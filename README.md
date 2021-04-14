@@ -1,4 +1,4 @@
-#  MhankBarBar-Api
+#  MR40P-API'S
 
 # Example
-• [Click here](https://mhankbarbar.herokuapp.com/api)
+• [Click here](https://info-apikey-site.herokuapp.com/api)
